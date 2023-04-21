@@ -2,6 +2,10 @@
 
 🛡️ Awesome EDR Bypass Resources For Ethical Hacking ⚔️
 
+EDR bypass technology is not just for attackers.
+Many malware now have EDR bypass capabilities, knowledge that pentesters and incident responders should also be aware of.
+This repository is not intended to be used to escalate attacks. Use it for ethical hacking.
+
 ## PoC
 - [trickster0/TartarusGate: TartarusGate, Bypassing EDRs](https://github.com/trickster0/TartarusGate)
 - [am0nsec/HellsGate: Original C Implementation of the Hell's Gate VX Technique](https://github.com/am0nsec/HellsGate)
@@ -24,12 +28,14 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [chvancooten/maldev-for-dummies: A workshop about Malware Development](https://github.com/chvancooten/maldev-for-dummies)
 - [BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)
 - [chr0n1k/AH2021Workshop: Malware development for red teaming workshop](https://github.com/chr0n1k/AH2021Workshop)
+- [WesleyWong420/RedTeamOps-Havoc-101: Materials for the workshop "Red Team Ops: Havoc 101"](https://github.com/WesleyWong420/RedTeamOps-Havoc-101)
 
 ## Presentation
 - [Lifting the veil, a look at MDE under the hood - FIRST CONFERENCE
 2022](https://www.first.org/resources/papers/conf2022/MDEInternals-FIRST.pdf)
 - [Dirty Vanity: A New Approach to Code Injection &#38; EDR Bypass - Black Hat Europe 2022](https://www.blackhat.com/eu-22/briefings/schedule/#dirty-vanity-a-new-approach-to-code-injection--edr-bypass-28417)
-- [talks/Diego Capriotti - DEFCON30 Adversary Village - Python vs Modern Defenses.pdf at main · naksyn/talks](https://github.com/naksyn/talks/blob/main/DEFCON30/Diego%20Capriotti%20-%20DEFCON30%20Adversary%20Village%20-%20%20Python%20vs%20Modern%20Defenses.pdf)
+- [talks/Diego Capriotti - DEFCON30 Adversary Village - Python vs Modern Defenses.pdf](https://github.com/naksyn/talks/blob/main/DEFCON30/Diego%20Capriotti%20-%20DEFCON30%20Adversary%20Village%20-%20%20Python%20vs%20Modern%20Defenses.pdf)
+- [Develop Your Own Rat](https://docs.google.com/presentation/d/1UZmFo_TvSS2TvPJKlDjIW1kTVjYGGaYO86Buh2UgbaI/mobilepresent?slide=id.g11cdb36f978_1_129)
 
 ## Blog
 - [Living-Off-the-Blindspot - Operating into EDRs’ blindspot | Naksyn’s blog](https://www.naksyn.com/edr%20evasion/2022/09/01/operating-into-EDRs-blindspot.html)
