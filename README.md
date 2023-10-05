@@ -21,6 +21,7 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [naksyn/Pyramid: a tool to help operate in EDRs' blind spots](https://github.com/naksyn/Pyramid)
 - [Yaxser/Backstab: A tool to kill antimalware protected processes](https://github.com/Yaxser/Backstab/)
 - [klezVirus/inceptor: Template-Driven AV/EDR Evasion Framework](https://github.com/klezVirus/inceptor)
+- [georgesotiriadis/Chimera: Automated DLL Sideloading Tool With EDR Evasion Capabilities](https://github.com/georgesotiriadis/Chimera)
 
 ## Workshop
 More of a malware development workshop for pentesters than a workshop to Bypass EDR.
