@@ -49,6 +49,9 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [A tale of EDR bypass methods | S3cur3Th1sSh1t](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
 - [In-Memory Execution in macOS: the Old and the New | Meta Red Team X](https://rtx.meta.security/post-exploitation/2022/12/19/In-Memory-Execution-in-macOS.html)
   - macOS!!!!
+- [Blindside: A New Technique for EDR Evasion with Hardware Breakpoints - Cymulate](https://cymulate.com/blog/blindside-a-new-technique-for-edr-evasion-with-hardware-breakpoints)
+- [Attacking an EDR - Part 1](https://riccardoancarani.github.io/2023-08-03-attacking-an-edr-part-1/)
+- [Attacking an EDR - Part 2](https://riccardoancarani.github.io/2023-09-14-attacking-an-edr-part-2/)
 
 ## Book
 - [Evading EDR | No Starch Press](https://nostarch.com/evading-edr)
