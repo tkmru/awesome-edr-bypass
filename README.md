@@ -15,6 +15,8 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [TheD1rkMtr/UnhookingPatch: Bypass EDR Hooks by patching NT API stub, and resolving SSNs and syscall instructions at runtime](https://github.com/TheD1rkMtr/UnhookingPatch)
 - [RedTeamOperations/Journey-to-McAfee](https://github.com/RedTeamOperations/Journey-to-McAfee)
 - [op7ic/EDR-Testing-Script: Test the accuracy of Endpoint Detection and Response (EDR) software with simple script which executes various ATT&CK/LOLBAS/Invoke-CradleCrafter/Invoke-DOSfuscation payloads](https://github.com/op7ic/EDR-Testing-Script)
+- [zer0condition/mhydeath: Abusing mhyprotect to kill AVs / EDRs / XDRs / Protected Processes.](https://github.com/zer0condition/mhydeath)
+  - Demo to force quit Crowdstrike Falcon and MsDefender 
 
 ## Tool
 - [tanc7/EXOCET-AV-Evasion: EXOCET - AV-evading, undetectable, payload delivery tool](https://github.com/tanc7/EXOCET-AV-Evasion)
