@@ -16,7 +16,8 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [RedTeamOperations/Journey-to-McAfee](https://github.com/RedTeamOperations/Journey-to-McAfee)
 - [op7ic/EDR-Testing-Script: Test the accuracy of Endpoint Detection and Response (EDR) software with simple script which executes various ATT&CK/LOLBAS/Invoke-CradleCrafter/Invoke-DOSfuscation payloads](https://github.com/op7ic/EDR-Testing-Script)
 - [zer0condition/mhydeath: Abusing mhyprotect to kill AVs / EDRs / XDRs / Protected Processes.](https://github.com/zer0condition/mhydeath)
-  - Demo to force quit Crowdstrike Falcon and Microsoft　Defender 
+  - Demo to force quit Crowdstrike Falcon and Microsoft　Defender
+- [Mr-Un1k0d3r/RedTeamCCode: Red Team C code repo](https://github.com/Mr-Un1k0d3r/RedTeamCCode/)
 
 ## Tool
 - [tanc7/EXOCET-AV-Evasion: EXOCET - AV-evading, undetectable, payload delivery tool](https://github.com/tanc7/EXOCET-AV-Evasion)
@@ -40,6 +41,7 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [talks/Diego Capriotti - DEFCON30 Adversary Village - Python vs Modern Defenses.pdf](https://github.com/naksyn/talks/blob/main/DEFCON30/Diego%20Capriotti%20-%20DEFCON30%20Adversary%20Village%20-%20%20Python%20vs%20Modern%20Defenses.pdf)
 - [Develop Your Own Rat](https://docs.google.com/presentation/d/1UZmFo_TvSS2TvPJKlDjIW1kTVjYGGaYO86Buh2UgbaI/mobilepresent?slide=id.g11cdb36f978_1_129)
 - [EDR Evasion Primer for Red Teamers - Karsten Nohl & Jorge Gimenez - Hack in the Box 2022 Singapore](https://conference.hitb.org/hitbsecconf2022sin/materials/D1T1%20-%20EDR%20Evasion%20Primer%20for%20Red%20Teamers%20-%20Karsten%20Nohl%20&%20Jorge%20Gimenez.pdf)
+- [EDR Reloaded: Erase Data Remotely - Black Hat Asia 2024 | Briefings Schedule](https://i.blackhat.com/Asia-24/Presentations/Asia-24_Bar-EDREraseDataRemotelyReloaded.pdf)
 
 ## Blog
 - [Living-Off-the-Blindspot - Operating into EDRs’ blindspot | Naksyn’s blog](https://www.naksyn.com/edr%20evasion/2022/09/01/operating-into-EDRs-blindspot.html)
@@ -49,11 +51,16 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [State-of-the-art EDRs are not perfect, fail to detect common attacks - The Record from Recorded Future News](https://therecord.media/state-of-the-art-edrs-are-not-perfect-fail-to-detect-common-attacks/)
   - Commentary on [An Empirical Assessment of Endpoint Security Systems Against Advanced Persistent Threats Attack Vectors](https://arxiv.org/abs/2108.10422)
 - [A tale of EDR bypass methods | S3cur3Th1sSh1t](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
-- [In-Memory Execution in macOS: the Old and the New | Meta Red Team X](https://rtx.meta.security/post-exploitation/2022/12/19/In-Memory-Execution-in-macOS.html)
-  - macOS!!!!
 - [Blindside: A New Technique for EDR Evasion with Hardware Breakpoints - Cymulate](https://cymulate.com/blog/blindside-a-new-technique-for-edr-evasion-with-hardware-breakpoints)
 - [Attacking an EDR - Part 1](https://riccardoancarani.github.io/2023-08-03-attacking-an-edr-part-1/)
 - [Attacking an EDR - Part 2](https://riccardoancarani.github.io/2023-09-14-attacking-an-edr-part-2/)
+- [The Dark Side of EDR: Repurpose EDR as an Offensive Tool | SafeBreach](https://www.safebreach.com/blog/dark-side-of-edr-offensive-tool/)
+  - Probably the same content as [The Dark Side of EDR: Repurpose EDR as an Offensive Tool - Black Hat Asia 2024](https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846) 
+  
+  
+### macOS
+- [EDR Internals for macOS and Linux | Outflank Security Blog](https://www.outflank.nl/blog/2024/06/03/edr-internals-macos-linux/)
+- [In-Memory Execution in macOS: the Old and the New | Meta Red Team X](https://rtx.meta.security/post-exploitation/2022/12/19/In-Memory-Execution-in-macOS.html)
 
 ## Book
 - [Evading EDR | No Starch Press](https://nostarch.com/evading-edr)
