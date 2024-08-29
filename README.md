@@ -18,6 +18,8 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [zer0condition/mhydeath: Abusing mhyprotect to kill AVs / EDRs / XDRs / Protected Processes.](https://github.com/zer0condition/mhydeath)
   - Demo to force quit Crowdstrike Falcon and Microsoft　Defender
 - [Mr-Un1k0d3r/RedTeamCCode: Red Team C code repo](https://github.com/Mr-Un1k0d3r/RedTeamCCode/)
+- [BYOSI: Bypass EDR by bringing your own script interpreter](https://github.com/oldkingcone/BYOSI)
+- [Polydrop: Expanded BYOSI attack, leverages 12 additional languages.](https://github.com/MalwareSupportGroup/PolyDrop)
 
 ## Tool
 - [tanc7/EXOCET-AV-Evasion: EXOCET - AV-evading, undetectable, payload delivery tool](https://github.com/tanc7/EXOCET-AV-Evasion)
@@ -25,8 +27,6 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [Yaxser/Backstab: A tool to kill antimalware protected processes](https://github.com/Yaxser/Backstab/)
 - [klezVirus/inceptor: Template-Driven AV/EDR Evasion Framework](https://github.com/klezVirus/inceptor)
 - [georgesotiriadis/Chimera: Automated DLL Sideloading Tool With EDR Evasion Capabilities](https://github.com/georgesotiriadis/Chimera)
-- [BYOSI: Bypass EDR by bringing your own script interpreter](https://github.com/oldkingcone/BYOSI)
-- [Polydrop: Expanded BYOSI attack, leverages 12 additional languages.](https://github.com/MalwareSupportGroup/PolyDrop)
 
 ## Workshop
 More of a malware development workshop for pentesters than a workshop to Bypass EDR.
