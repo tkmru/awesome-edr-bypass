@@ -20,6 +20,7 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [Mr-Un1k0d3r/RedTeamCCode: Red Team C code repo](https://github.com/Mr-Un1k0d3r/RedTeamCCode/)
 - [BYOSI: Bypass EDR by bringing your own script interpreter](https://github.com/oldkingcone/BYOSI)
 - [Polydrop: Expanded BYOSI attack, leverages 12 additional languages.](https://github.com/MalwareSupportGroup/PolyDrop)
+- [senzee1984/EDRPrison: Leverage a legitimate WFP callout driver to prevent EDR agents from sending telemetry](https://github.com/senzee1984/EDRPrison)
 
 ## Tool
 - [tanc7/EXOCET-AV-Evasion: EXOCET - AV-evading, undetectable, payload delivery tool](https://github.com/tanc7/EXOCET-AV-Evasion)
