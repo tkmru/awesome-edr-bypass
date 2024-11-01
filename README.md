@@ -28,6 +28,7 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [Yaxser/Backstab: A tool to kill antimalware protected processes](https://github.com/Yaxser/Backstab/)
 - [klezVirus/inceptor: Template-Driven AV/EDR Evasion Framework](https://github.com/klezVirus/inceptor)
 - [georgesotiriadis/Chimera: Automated DLL Sideloading Tool With EDR Evasion Capabilities](https://github.com/georgesotiriadis/Chimera)
+- [netero1010/EDRSilencer: A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.](https://github.com/netero1010/EDRSilencer)
 
 ## Workshop
 More of a malware development workshop for pentesters than a workshop to Bypass EDR.
