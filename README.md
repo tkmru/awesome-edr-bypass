@@ -59,8 +59,9 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [Attacking an EDR - Part 1](https://riccardoancarani.github.io/2023-08-03-attacking-an-edr-part-1/)
 - [Attacking an EDR - Part 2](https://riccardoancarani.github.io/2023-09-14-attacking-an-edr-part-2/)
 - [The Dark Side of EDR: Repurpose EDR as an Offensive Tool | SafeBreach](https://www.safebreach.com/blog/dark-side-of-edr-offensive-tool/)
-  - Probably the same content as [The Dark Side of EDR: Repurpose EDR as an Offensive Tool - Black Hat Asia 2024](https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846) 
-  
+  - Probably the same content as [The Dark Side of EDR: Repurpose EDR as an Offensive Tool - Black Hat Asia 2024](https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846)
+- [Silent Threat: Red Team Tool EDRSilencer Disrupting Endpoint Security Solutions | Trend Micro (US)](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)
+  - Leveraging the Windows Filtering Platform (WFP)
   
 ### macOS
 - [EDR Internals for macOS and Linux | Outflank Security Blog](https://www.outflank.nl/blog/2024/06/03/edr-internals-macos-linux/)
