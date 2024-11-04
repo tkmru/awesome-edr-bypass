@@ -29,7 +29,8 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [klezVirus/inceptor: Template-Driven AV/EDR Evasion Framework](https://github.com/klezVirus/inceptor)
 - [georgesotiriadis/Chimera: Automated DLL Sideloading Tool With EDR Evasion Capabilities](https://github.com/georgesotiriadis/Chimera)
 - [netero1010/EDRSilencer: A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.](https://github.com/netero1010/EDRSilencer)
-
+- [wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)
+  
 ## Workshop
 More of a malware development workshop for pentesters than a workshop to Bypass EDR.
 
@@ -62,6 +63,8 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
   - Probably the same content as [The Dark Side of EDR: Repurpose EDR as an Offensive Tool - Black Hat Asia 2024](https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846)
 - [Silent Threat: Red Team Tool EDRSilencer Disrupting Endpoint Security Solutions | Trend Micro (US)](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)
   - Leveraging the Windows Filtering Platform (WFP)
+- [EDR Bypass Testing Reveals Extortion Actor's Toolkit](https://unit42.paloaltonetworks.com/edr-bypass-extortion-attempt-thwarted/)
+  - BYOVD
   
 ### macOS
 - [EDR Internals for macOS and Linux | Outflank Security Blog](https://www.outflank.nl/blog/2024/06/03/edr-internals-macos-linux/)
