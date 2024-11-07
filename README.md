@@ -30,6 +30,7 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [georgesotiriadis/Chimera: Automated DLL Sideloading Tool With EDR Evasion Capabilities](https://github.com/georgesotiriadis/Chimera)
 - [netero1010/EDRSilencer: A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.](https://github.com/netero1010/EDRSilencer)
 - [wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)
+- [myzxcg/RealBlindingEDR: Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...](https://github.com/myzxcg/RealBlindingEDR)
   
 ## Workshop
 More of a malware development workshop for pentesters than a workshop to Bypass EDR.
