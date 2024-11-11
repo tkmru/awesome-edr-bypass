@@ -64,9 +64,11 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
   - Probably the same content as [The Dark Side of EDR: Repurpose EDR as an Offensive Tool - Black Hat Asia 2024](https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846)
 - [Silent Threat: Red Team Tool EDRSilencer Disrupting Endpoint Security Solutions | Trend Micro (US)](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)
   - Leveraging the Windows Filtering Platform (WFP)
+
+### BYOVD
 - [EDR Bypass Testing Reveals Extortion Actor's Toolkit](https://unit42.paloaltonetworks.com/edr-bypass-extortion-attempt-thwarted/)
-  - BYOVD
-  
+- [Forget vulnerable drivers - Admin is all you need — Elastic Security Labs](https://www.elastic.co/security-labs/forget-vulnerable-drivers-admin-is-all-you-need)
+
 ### macOS
 - [EDR Internals for macOS and Linux | Outflank Security Blog](https://www.outflank.nl/blog/2024/06/03/edr-internals-macos-linux/)
 - [In-Memory Execution in macOS: the Old and the New | Meta Red Team X](https://rtx.meta.security/post-exploitation/2022/12/19/In-Memory-Execution-in-macOS.html)
