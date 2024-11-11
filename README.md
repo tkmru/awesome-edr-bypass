@@ -68,6 +68,7 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 ### BYOVD
 - [EDR Bypass Testing Reveals Extortion Actor's Toolkit](https://unit42.paloaltonetworks.com/edr-bypass-extortion-attempt-thwarted/)
 - [Forget vulnerable drivers - Admin is all you need — Elastic Security Labs](https://www.elastic.co/security-labs/forget-vulnerable-drivers-admin-is-all-you-need)
+- [Bring Your Own Backdoor: How Vulnerable Drivers Let Hackers In - VMware Security Blog - VMware](https://blogs.vmware.com/security/2023/04/bring-your-own-backdoor-how-vulnerable-drivers-let-hackers-in.html)
 
 ### macOS
 - [EDR Internals for macOS and Linux | Outflank Security Blog](https://www.outflank.nl/blog/2024/06/03/edr-internals-macos-linux/)
