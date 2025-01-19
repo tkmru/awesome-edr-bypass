@@ -72,6 +72,7 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [It’ll be back: Attackers still abusing Terminator tool and variants – Sophos News](https://news.sophos.com/en-us/2024/03/04/itll-be-back-attackers-still-abusing-terminator-tool-and-variants/)
 
 ### Sandbox / Container
+- [Live off the Land? How About Bringing Your Own Island? An Overview of UNC1945 | Mandiant | Google Cloud Blog](https://cloud.google.com/blog/topics/threat-intelligence/live-off-the-land-an-overview-of-unc1945?hl=en)
 - [Bring Your Own Container: When Containers Turn the Key to EDR Bypass - Speaker Deck](https://speakerdeck.com/tkmru/byoc-avtokyo2024)
 
 ### macOS
