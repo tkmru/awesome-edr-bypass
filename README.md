@@ -74,6 +74,7 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 ### Sandbox / Container
 - [Live off the Land? How About Bringing Your Own Island? An Overview of UNC1945 | Mandiant | Google Cloud Blog](https://cloud.google.com/blog/topics/threat-intelligence/live-off-the-land-an-overview-of-unc1945?hl=en)
 - [Bring Your Own Container: When Containers Turn the Key to EDR Bypass - Speaker Deck](https://speakerdeck.com/tkmru/byoc-avtokyo2024)
+- [Hack The Sandbox: Unveiling the Truth Behind Disappearing Artifacts | JSAC 2025](https://jsac.jpcert.or.jp/archive/2025/pdf/JSAC2025_2_9_kamekawa_sasada_niwa_en.pdf)
 
 ### macOS
 - [EDR Internals for macOS and Linux | Outflank Security Blog](https://www.outflank.nl/blog/2024/06/03/edr-internals-macos-linux/)
