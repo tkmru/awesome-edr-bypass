@@ -53,7 +53,8 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [Living-Off-the-Blindspot - Operating into EDRs’ blindspot | Naksyn’s blog](https://www.naksyn.com/edr%20evasion/2022/09/01/operating-into-EDRs-blindspot.html)
   - Type of person who works hard in Python; uses [PEP 578 – Python Runtime Audit Hooks](https://peps.python.org/pep-0578/).
 - [Bypass CrowdStrike Falcon EDR protection against process dump like lsass.exe | by bilal al-qurneh | Medium](https://medium.com/@balqurneh/bypass-crowdstrike-falcon-edr-protection-against-process-dump-like-lsass-exe-3c163e1b8a3e)
-  - The story is that a forensic tool can be used to dump memory without detection. This is an example of how a tool for legitimate purposes that is not an attack tool can be used in an attack without being detected. 
+  - The story is that a forensic tool can be used to dump memory without detection. This is an example of how a tool for legitimate purposes that is not an attack tool can be used in an attack without being detected.
+- [Bypassing CrowdStrike Falcon and MDE](https://ericesquivel.github.io/posts/bypass)
 - [State-of-the-art EDRs are not perfect, fail to detect common attacks - The Record from Recorded Future News](https://therecord.media/state-of-the-art-edrs-are-not-perfect-fail-to-detect-common-attacks/)
   - Commentary on [An Empirical Assessment of Endpoint Security Systems Against Advanced Persistent Threats Attack Vectors](https://arxiv.org/abs/2108.10422)
 - [A tale of EDR bypass methods | S3cur3Th1sSh1t](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
@@ -64,6 +65,9 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
   - Probably the same content as [The Dark Side of EDR: Repurpose EDR as an Offensive Tool - Black Hat Asia 2024](https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846)
 - [Silent Threat: Red Team Tool EDRSilencer Disrupting Endpoint Security Solutions | Trend Micro (US)](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)
   - Leveraging the Windows Filtering Platform (WFP)
+- [EDR as an Offensive Tool | SafeBreach](https://www.safebreach.com/blog/dark-side-of-edr-offensive-tool/)
+  - [The Dark Side of EDR: Repurpose EDR as an Offensive Tool - Black Hat Asia 2024](https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846)
+  - Focusing on Palo Alto Networks' Cortex XDR, the report presents a case study of how EDR turned into a stealthy and unique persistent malware.
 
 ### BYOVD
 - [EDR Bypass Testing Reveals Extortion Actor's Toolkit](https://unit42.paloaltonetworks.com/edr-bypass-extortion-attempt-thwarted/)
