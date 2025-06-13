@@ -63,11 +63,9 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [Attacking an EDR - Part 2](https://riccardoancarani.github.io/2023-09-14-attacking-an-edr-part-2/)
 - [The Dark Side of EDR: Repurpose EDR as an Offensive Tool | SafeBreach](https://www.safebreach.com/blog/dark-side-of-edr-offensive-tool/)
   - Probably the same content as [The Dark Side of EDR: Repurpose EDR as an Offensive Tool - Black Hat Asia 2024](https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846)
+  - Focusing on Palo Alto Networks' Cortex XDR, the report presents a case study of how EDR turned into a stealthy and unique persistent malware.
 - [Silent Threat: Red Team Tool EDRSilencer Disrupting Endpoint Security Solutions | Trend Micro (US)](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)
   - Leveraging the Windows Filtering Platform (WFP)
-- [EDR as an Offensive Tool | SafeBreach](https://www.safebreach.com/blog/dark-side-of-edr-offensive-tool/)
-  - [The Dark Side of EDR: Repurpose EDR as an Offensive Tool - Black Hat Asia 2024](https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846)
-  - Focusing on Palo Alto Networks' Cortex XDR, the report presents a case study of how EDR turned into a stealthy and unique persistent malware.
 - [Bring Your Own Installer: Bypassing EDR Through Agent Version Change Interruption](https://www.aon.com/en/insights/cyber-labs/bring-your-own-installer-bypassing-sentinelone)
   - Running the EDR installer locally stops the EDR process.
 
