@@ -68,12 +68,16 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [EDR as an Offensive Tool | SafeBreach](https://www.safebreach.com/blog/dark-side-of-edr-offensive-tool/)
   - [The Dark Side of EDR: Repurpose EDR as an Offensive Tool - Black Hat Asia 2024](https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846)
   - Focusing on Palo Alto Networks' Cortex XDR, the report presents a case study of how EDR turned into a stealthy and unique persistent malware.
+- [Bring Your Own Installer: Bypassing EDR Through Agent Version Change Interruption](https://www.aon.com/en/insights/cyber-labs/bring-your-own-installer-bypassing-sentinelone)
+  - Running the EDR installer locally stops the EDR process.
 
 ### BYOVD
 - [EDR Bypass Testing Reveals Extortion Actor's Toolkit](https://unit42.paloaltonetworks.com/edr-bypass-extortion-attempt-thwarted/)
 - [Forget vulnerable drivers - Admin is all you need — Elastic Security Labs](https://www.elastic.co/security-labs/forget-vulnerable-drivers-admin-is-all-you-need)
 - [Bring Your Own Backdoor: How Vulnerable Drivers Let Hackers In - VMware Security Blog - VMware](https://blogs.vmware.com/security/2023/04/bring-your-own-backdoor-how-vulnerable-drivers-let-hackers-in.html)
 - [It’ll be back: Attackers still abusing Terminator tool and variants – Sophos News](https://news.sophos.com/en-us/2024/03/04/itll-be-back-attackers-still-abusing-terminator-tool-and-variants/)
+- [Bypassing EDR through Retrosigned Drivers and System Time Manipulation](https://www.aon.com/en/insights/cyber-labs/bypassing-edr-through-retrosigned-drivers-and-system-time-manipulation)
+  - Retrosigned Drivers extends previous techniques by altering the system clock on the target system to load malicious kernel drivers that were signed by historically compromised expired cross-signing certificates. 
 
 ### Sandbox / Container
 - [Live off the Land? How About Bringing Your Own Island? An Overview of UNC1945 | Mandiant | Google Cloud Blog](https://cloud.google.com/blog/topics/threat-intelligence/live-off-the-land-an-overview-of-unc1945?hl=en)
