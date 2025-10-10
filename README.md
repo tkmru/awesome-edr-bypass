@@ -68,6 +68,7 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
   - Leveraging the Windows Filtering Platform (WFP)
 - [Bring Your Own Installer: Bypassing EDR Through Agent Version Change Interruption](https://www.aon.com/en/insights/cyber-labs/bring-your-own-installer-bypassing-sentinelone)
   - Running the EDR installer locally stops the EDR process.
+- [Meterpreter vs Modern EDR(s) - RedOps](https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023)
 
 ### BYOVD
 - [EDR Bypass Testing Reveals Extortion Actor's Toolkit](https://unit42.paloaltonetworks.com/edr-bypass-extortion-attempt-thwarted/)
