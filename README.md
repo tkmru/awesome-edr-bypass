@@ -35,17 +35,7 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [myzxcg/RealBlindingEDR: Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...](https://github.com/myzxcg/RealBlindingEDR)
 - [jthuraisamy/SysWhispers2: Direct system call generator to bypass userland API hooks](https://github.com/jthuraisamy/SysWhispers2)
 - [klezVirus/SysWhispers3: Generate header/ASM files implants can use to make direct system calls](https://github.com/klezVirus/SysWhispers3)
-- [RWXstoned/SysWhispers3: Changes to the hashing logic and PE parsing in order to remove signatures from Windefender as well as slipping past Fireye's CAPA rules](https://github.com/RWXstoned/SysWhispers3)
-- [amjcyber/EDRNoiseMaker: Detect potential silencers of an EDR by checking a list of executables that have been silenced using the Windows Filtering Platform (WFP).](https://github.com/amjcyber/EDRNoiseMaker)
-- [Acucarinho/havoc-obfuscator: Obfuscator for Havoc C2 framework to evade AV/EDR and C2 hunters](https://github.com/Acucarinho/havoc-obfuscator)
-- [RWXstoned/LdrShuffle: Stealthy code execution via modification of the EntryPoint of loaded modules at runtime](https://github.com/RWXstoned/LdrShuffle)
-- [EvilBytecode/GoRedOps: Golang red team operations toolkit](https://github.com/EvilBytecode/GoRedOps)
-- [monoxgas/sRDI: Shellcode Reflective DLL Injection - Convert DLLs to position independent shellcode](https://github.com/monoxgas/sRDI)
-- [TheWover/DInvoke: Dynamically invoke arbitrary unmanaged code from managed code without PInvoke](https://github.com/TheWover/DInvoke)
-- [EgeBalci/sgn: A polymorphic binary encoder for offensive security purposes such as generating statically undetecable binary payloads](https://github.com/EgeBalci/sgn)
-- [BishopFox/sliver: Open-source C2 framework](https://github.com/BishopFox/sliver)
-- [HavocFramework/Havoc: Open-source C2 framework](https://github.com/HavocFramework/Havoc)
-- [PowerShell Empire: Open-source post-exploitation framework that extensively uses the PowerShell scripting language](https://github.com/EmpireProject/Empire)
+- [d1rkmtrr/dark-kill: A user-mode code and its rootkit that will Kill EDR Processes permanently by leveraging the power of Process Creation Blocking Kernel Callback Routine registering and ZwTerminateProcess.](https://github.com/d1rkmtrr/dark-kill)
 
 ## Workshop
 More of a malware development workshop for pentesters than a workshop to Bypass EDR.
@@ -54,11 +44,6 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)
 - [chr0n1k/AH2021Workshop: Malware development for red teaming workshop](https://github.com/chr0n1k/AH2021Workshop)
 - [WesleyWong420/RedTeamOps-Havoc-101: Materials for the workshop "Red Team Ops: Havoc 101"](https://github.com/WesleyWong420/RedTeamOps-Havoc-101)
-- [cr-0w/maldev: Malware development tutorials covering Shellcode Injection, NTDLL, Indirect/Direct Syscalls, DLL Injection](https://github.com/cr-0w/maldev)
-- [redcode-labs/Coldfire: Golang malware development library](https://github.com/redcode-labs/Coldfire)
-- [EvilBytecode/GoDefender: Go-based security toolkit designed to detect and defend against debugging, virtualization, and DLL injection attacks](https://github.com/EvilBytecode/GoDefender)
-- [byt3bl33d3r/OffensiveNim: Offensive security toolkit in Nim](https://github.com/byt3bl33d3r/OffensiveNim)
-- [am0nsec/vx: Collection of malware or assembly code used for "offensive" purposed](https://github.com/am0nsec/vx)
 
 ## Presentation
 - [Lifting the veil, a look at MDE under the hood - FIRST CONFERENCE
@@ -68,8 +53,8 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [Develop Your Own Rat](https://docs.google.com/presentation/d/1UZmFo_TvSS2TvPJKlDjIW1kTVjYGGaYO86Buh2UgbaI/mobilepresent?slide=id.g11cdb36f978_1_129)
 - [EDR Evasion Primer for Red Teamers - Karsten Nohl & Jorge Gimenez - Hack in the Box 2022 Singapore](https://conference.hitb.org/hitbsecconf2022sin/materials/D1T1%20-%20EDR%20Evasion%20Primer%20for%20Red%20Teamers%20-%20Karsten%20Nohl%20&%20Jorge%20Gimenez.pdf)
 - [EDR Reloaded: Erase Data Remotely - Black Hat Asia 2024 | Briefings Schedule](https://i.blackhat.com/Asia-24/Presentations/Asia-24_Bar-EDREraseDataRemotelyReloaded.pdf)
-- [SentinelOne Agent Analysis - x33fcon 2025](https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess/)
-  - https://www.synacktiv.com/sites/default/files/2025-06/x33fcon-sentinelone-agent-analysis.pdf
+- [EvilEDR: Repurposing EDR as an Offensive Tool - USENIX Security 2025](https://doi.org/10.5281/zenodo.15116409)
+    - Demonstrates how EDR systems can be employed for offensive use, executing arbitrary commands, exfiltrating data, and impairing defenses. Artifact repository is hosted on the Zenodo platform and is publicly accessible through the following permanent URL:https://doi.org/10.5281/zenodo.15116409
 
 ## Blog
 - [Living-Off-the-Blindspot - Operating into EDRs’ blindspot | Naksyn’s blog](https://www.naksyn.com/edr%20evasion/2022/09/01/operating-into-EDRs-blindspot.html)
@@ -115,19 +100,6 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 
 ## Book
 - [Evading EDR | No Starch Press](https://nostarch.com/evading-edr)
-
-## Resources
-- [unprotect.it: Malware evasion techniques search engine](https://unprotect.it/)
-- [malapi.io: Windows API usage mapping for malware](https://malapi.io/)
-- [ired.team: Red teaming techniques and tactics notes](https://www.ired.team/)
-- [Open Security Training 2 (OST2): Free cybersecurity training platform](https://ost2.fyi/Home.html)
-  - [OST2 Courses](https://p.ost2.fyi/courses)
-- [OffWhiteSecurity: Malware development learning notes](https://offwhitesecurity.dev/malware-development/)
-- [Game Hacking Academy: Code injection, DLL injection techniques (applicable beyond games)](https://gamehacking.academy)
-- [j00ru/windows-syscalls: Windows System Call Tables (NT/2000/XP/2003/Vista/7/8/10/11)](https://github.com/j00ru/windows-syscalls)
-- [malsearchs/Pure-Malware-Development: Pure Malware Development Resource Collections](https://github.com/malsearchs/Pure-Malware-Development)
-- [kymb0/Malware_learns: Malware learning resources collection](https://github.com/kymb0/Malware_learns)
-- [@crr0ww YouTube Channel: Malware development video tutorials](https://www.youtube.com/@crr0ww)
 
 ## Other awesome series
 - [MrEmpy/Awesome-AV-EDR-XDR-Bypass: Awesome AV/EDR/XDR Bypass Tips](https://github.com/MrEmpy/Awesome-AV-EDR-XDR-Bypass)
