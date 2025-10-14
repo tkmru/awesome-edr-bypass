@@ -53,7 +53,7 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [Develop Your Own Rat](https://docs.google.com/presentation/d/1UZmFo_TvSS2TvPJKlDjIW1kTVjYGGaYO86Buh2UgbaI/mobilepresent?slide=id.g11cdb36f978_1_129)
 - [EDR Evasion Primer for Red Teamers - Karsten Nohl & Jorge Gimenez - Hack in the Box 2022 Singapore](https://conference.hitb.org/hitbsecconf2022sin/materials/D1T1%20-%20EDR%20Evasion%20Primer%20for%20Red%20Teamers%20-%20Karsten%20Nohl%20&%20Jorge%20Gimenez.pdf)
 - [EDR Reloaded: Erase Data Remotely - Black Hat Asia 2024 | Briefings Schedule](https://i.blackhat.com/Asia-24/Presentations/Asia-24_Bar-EDREraseDataRemotelyReloaded.pdf)
-- [EvilEDR: Repurposing EDR as an Offensive Tool - USENIX Security 2025](https://doi.org/10.5281/zenodo.15116409)
+- [EvilEDR: Repurposing EDR as an Offensive Tool - USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/presentation/alachkar)
     - Demonstrates how EDR systems can be employed for offensive use, executing arbitrary commands, exfiltrating data, and impairing defenses. Artifact repository is hosted on the Zenodo platform and is publicly accessible through the following permanent URL:https://doi.org/10.5281/zenodo.15116409
 
 ## Blog
