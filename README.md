@@ -55,6 +55,12 @@ More of a malware development workshop for pentesters than a workshop to Bypass 
 - [EDR Reloaded: Erase Data Remotely - Black Hat Asia 2024 | Briefings Schedule](https://i.blackhat.com/Asia-24/Presentations/Asia-24_Bar-EDREraseDataRemotelyReloaded.pdf)
 - [EvilEDR: Repurposing EDR as an Offensive Tool - USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/presentation/alachkar)
     - Demonstrates how EDR systems can be employed for offensive use, executing arbitrary commands, exfiltrating data, and impairing defenses. Artifact repository is hosted on the Zenodo platform and is publicly accessible through the following permanent URL:https://doi.org/10.5281/zenodo.15116409
+- [Hiding Payloads in Plain .text, bypass EDRs which use Shannon entropy for detection - x33fcon 2024](https://www.youtube.com/watch?v=8YIfjM_zCjs)
+    - [code repository for this Presentation](https://github.com/NVISOsecurity/codasm)
+    - some blogs relative to this topic:
+      - https://redsiege.com/blog/2023/04/evading-crowdstrike-falcon-using-entropy/
+      - https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023
+      - https://practicalsecurityanalytics.com/file-entropy/
 
 ## Blog
 - [Living-Off-the-Blindspot - Operating into EDRs’ blindspot | Naksyn’s blog](https://www.naksyn.com/edr%20evasion/2022/09/01/operating-into-EDRs-blindspot.html)
