@@ -35,6 +35,7 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [myzxcg/RealBlindingEDR: Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...](https://github.com/myzxcg/RealBlindingEDR)
 - [jthuraisamy/SysWhispers2: Direct system call generator to bypass userland API hooks](https://github.com/jthuraisamy/SysWhispers2)
 - [klezVirus/SysWhispers3: Generate header/ASM files implants can use to make direct system calls](https://github.com/klezVirus/SysWhispers3)
+- [JoasASantos/SysWhispers4: Python-based syscall stub generator that produces C/ASM code for invoking NT kernel functions directly, bypassing user-mode hooks placed by AV/EDR products on ntdll.dll](https://github.com/JoasASantos/SysWhispers4)
 - [d1rkmtrr/dark-kill: A user-mode code and its rootkit that will Kill EDR Processes permanently by leveraging the power of Process Creation Blocking Kernel Callback Routine registering and ZwTerminateProcess.](https://github.com/d1rkmtrr/dark-kill)
 - [thomasxm/BOAZ_beta: Multilayered AV/EDR Evasion Framework](https://github.com/thomasxm/BOAZ_beta)
 
