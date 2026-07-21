@@ -20,6 +20,7 @@ This repository is not intended to be used to escalate attacks. Use it for ethic
 - [Mr-Un1k0d3r/RedTeamCCode: Red Team C code repo](https://github.com/Mr-Un1k0d3r/RedTeamCCode/)
 - [BYOSI: Bypass EDR by bringing your own script interpreter](https://github.com/oldkingcone/BYOSI)
 - [Polydrop: Expanded BYOSI attack, leverages 12 additional languages.](https://github.com/MalwareSupportGroup/PolyDrop)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
 - [senzee1984/EDRPrison: Leverage a legitimate WFP callout driver to prevent EDR agents from sending telemetry](https://github.com/senzee1984/EDRPrison)
 - [S3cur3Th1sSh1t/Ruy-Lopez: Proof-of-Concept(PoC) for a new approach to completely prevent DLLs from being loaded into a newly spawned process](https://github.com/S3cur3Th1sSh1t/Ruy-Lopez)
     - This [post](https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess/) will cover the background and description of the technique.
